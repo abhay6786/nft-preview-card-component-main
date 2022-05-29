@@ -5,5 +5,5 @@
 ![](./images/Screenshot%20(5).png)
 
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/abhay6786/nft-preview-card-component-main)
+- Live Site URL: [live site](https://abhay6786.github.io/nft-preview-card-component-main/)
